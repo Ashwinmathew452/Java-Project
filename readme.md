@@ -87,10 +87,6 @@ The Book Finder System provides a GUI-based solution to search and add books usi
 8. The application window will open.
 
 ---
-**Screenshots of the GUI**
-
-https://github.com/Ashwinmathew452/Java-Project/blob/main/1.jpeg
-
 ## 🧪 Sample Inputs and Outputs
 
 ### 🔎 Test Case 1 – Search Book
@@ -139,6 +135,7 @@ Record successfully inserted into MySQL database.
 ## ✅ Conclusion
 
 The Book Finder System successfully demonstrates Java Swing GUI development, OOP concepts, exception handling, and JDBC database connectivity. The system provides an efficient and user-friendly way to search and manage book records.
+
 
 
 
