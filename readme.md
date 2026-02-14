@@ -1,4 +1,4 @@
-# 📚 Book Finder System
+![WhatsApp Image 2026-02-14 at 9 09 24 PM](https://github.com/user-attachments/assets/a62f9c98-fd3c-4b84-be12-477b3f652597)# 📚 Book Finder System
 
 ### Object Oriented Programming using Java (CO5 Project)
 
@@ -88,28 +88,6 @@ The Book Finder System provides a GUI-based solution to search and add books usi
 
 ---
 
-## 📷 Screenshots of the GUI
-
-(Add your images inside a folder named `screenshots`)
-
-### 🔹 Main Interface
-
-![Main GUI](screenshots/main_gui.png)
-
-### 🔹 Search Result
-
-![Search Result](screenshots/search_result.png)
-
-### 🔹 Add Book Section
-
-![Add Book](screenshots/add_book.png)
-
-### 🔹 Database Records
-
-![Database](screenshots/database.png)
-
----
-
 ## 🧪 Sample Inputs and Outputs
 
 ### 🔎 Test Case 1 – Search Book
@@ -158,5 +136,6 @@ Record successfully inserted into MySQL database.
 ## ✅ Conclusion
 
 The Book Finder System successfully demonstrates Java Swing GUI development, OOP concepts, exception handling, and JDBC database connectivity. The system provides an efficient and user-friendly way to search and manage book records.
+
 
 
